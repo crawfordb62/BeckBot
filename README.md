@@ -1,0 +1,2 @@
+# BeckBot
+Discord.py bot
